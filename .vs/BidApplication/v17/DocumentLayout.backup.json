@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeld\\source\\repos\\BidApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.csproj|c:\\users\\emeld\\source\\repos\\bidapplication\\bidapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.csproj|solutionrelative:bidapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D684A94-18AC-4A9D-9C15-62058D1FF9B6}|BidApplicationRepo\\BidApplicationRepo.csproj|c:\\users\\emeld\\source\\repos\\bidapplication\\bidapplicationrepo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D684A94-18AC-4A9D-9C15-62058D1FF9B6}|BidApplicationRepo\\BidApplicationRepo.csproj|solutionrelative:bidapplicationrepo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD7FD3E-EBBE-4629-AA1A-A6BF52CAD691}|BidApplicationService\\BidApplicationService.csproj|c:\\users\\emeld\\source\\repos\\bidapplication\\bidapplicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD7FD3E-EBBE-4629-AA1A-A6BF52CAD691}|BidApplicationService\\BidApplicationService.csproj|solutionrelative:bidapplicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E099430-CECA-4530-BAF3-254CB49329F5}|BidApplicationDomain\\BidApplicationDomain.csproj|c:\\users\\emeld\\source\\repos\\bidapplication\\bidapplicationdomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E099430-CECA-4530-BAF3-254CB49329F5}|BidApplicationDomain\\BidApplicationDomain.csproj|solutionrelative:bidapplicationdomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationRepo\\Class1.cs",
+              "RelativeDocumentMoniker": "BidApplicationRepo\\Class1.cs",
+              "ToolTip": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationRepo\\Class1.cs",
+              "RelativeToolTip": "BidApplicationRepo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:48:40.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationService\\Class1.cs",
+              "RelativeDocumentMoniker": "BidApplicationService\\Class1.cs",
+              "ToolTip": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationService\\Class1.cs",
+              "RelativeToolTip": "BidApplicationService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:48:08.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationDomain\\Class1.cs",
+              "RelativeDocumentMoniker": "BidApplicationDomain\\Class1.cs",
+              "ToolTip": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationDomain\\Class1.cs",
+              "RelativeToolTip": "BidApplicationDomain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:47:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BidApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BidApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T18:45:50.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
