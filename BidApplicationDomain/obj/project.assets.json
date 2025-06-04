@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationDomain\\BidApplicationDomain.csproj",
-      "projectName": "BidApplicationDomain",
-      "projectPath": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationDomain\\BidApplicationDomain.csproj",
+      "projectUniqueName": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationDomain\\BidApplication.Domain.csproj",
+      "projectName": "BidApplication.Domain",
+      "projectPath": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationDomain\\BidApplication.Domain.csproj",
       "packagesPath": "C:\\Users\\emeld\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplicationDomain\\obj\\",
       "projectStyle": "PackageReference",

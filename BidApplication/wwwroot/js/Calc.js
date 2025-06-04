@@ -7,29 +7,32 @@ function calculateTotal() {
     let total = (days * workers * perWorker) + materials;
 
     // Optional extras
-    const travelEnabled = document.getElementById('enableTravelCost').checked;
     const travelCost = Number(document.getElementById('travelCost').value);
-    if (travelEnabled) total += travelCost;
+     total += travelCost;
 
-    const hardwoodEnabled = document.getElementById('enableHardwood').checked;
+    
     const hardwoodCost = Number(document.getElementById('hardwoodCost').value);
-    if (hardwoodEnabled) total += hardwoodCost;
+    total += hardwoodCost;
 
     document.getElementById('Total').value = total.toFixed(2);
   }
 
-  function fetchJSONData() {
-    fetch('./sample.json')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.json();  
+function GetExtraOptions() {
+
+    fetch(document.getElementById('GetExtras').value, { method: 'POST' })
+        .then(response => response.json())
+        .then(data => {
+
+            console.log(data)
         })
-        .then(data => console.log(data))  
-        .catch(error => console.error('Failed to fetch data:', error)); 
+        .catch(error => {
+            console.error('Error:', error);
+            alert('An issue occured while attempting to load the Extras');
+        });
+
+
 }
-fetchJSONData();  
+
 
   // Add event listeners to all relevant inputs
   window.addEventListener('DOMContentLoaded', () => {

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BidApplication.UI.props" />
+</Project>

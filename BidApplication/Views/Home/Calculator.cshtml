@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/css/styles.css">
+<script src="~/js/Calc.js"></script>
+
+<div>
+    <h1>Cost Calculator</h1>
+    <div>
+        <label for="numberOfDays">Number of Days:</label>
+        <input type="number" id="numberOfDays" name="numberOfDays" min="0" value="0">
+    </div>
+    <div>
+        <label for="numberOfWorkers">Number of Workers:</label>
+        <input type="number" id="numberOfWorkers" name="numberOfWorkers" min="0" value="0">
+    </div>
+    <div>
+        <label for="amountPerWorker">Amount Per Worker:</label>
+        <input type="number" id="amountPerWorker" name="amountPerWorker" min="0" value="0">
+    </div>
+    <div>
+        <label for="Materials">Amount For Materials:</label>
+        <input type="number" id="Materials" name="Materials" min="0" value="0">
+    </div>
+    <div id="Extras">
+        <h1>Extras</h1>
+        <div id="ExtraOptions">
+            <input type="button" id="AddExtra" value="Add Extra Option"/>
+            <div>
+                <label for="travelCost">Travel Cost:</label>
+                <input type="number" id="travelCost" name="travelCost" min="1" value="0">
+            </div>
+            <div>
+                <label for="hardwoodCost">Hardwood Protection Cost:</label>
+                <input type="number" id="hardwoodCost" name="hardwoodCost" min="1" value="0">
+            </div>
+        </div>
+
+        <div>
+            <label for="Total">Total:</label>
+            <input id="Total" value="0"></p>
+        </div>
+    </div>
+</div>

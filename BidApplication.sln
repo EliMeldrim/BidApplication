@@ -1,15 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35728.132 d17.12
+VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplicationUI", "BidApplication\BidApplicationUI.csproj", "{AAC32E5E-5460-4B0F-A990-7F97671997F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplication.UI", "BidApplication\BidApplication.UI.csproj", "{AAC32E5E-5460-4B0F-A990-7F97671997F0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6E099430-CECA-4530-BAF3-254CB49329F5} = {6E099430-CECA-4530-BAF3-254CB49329F5}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplicationDomain", "BidApplicationDomain\BidApplicationDomain.csproj", "{6E099430-CECA-4530-BAF3-254CB49329F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplication.Domain", "BidApplicationDomain\BidApplication.Domain.csproj", "{6E099430-CECA-4530-BAF3-254CB49329F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplicationService", "BidApplicationService\BidApplicationService.csproj", "{8FD7FD3E-EBBE-4629-AA1A-A6BF52CAD691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplication.Service", "BidApplicationService\BidApplication.Service.csproj", "{8FD7FD3E-EBBE-4629-AA1A-A6BF52CAD691}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6E099430-CECA-4530-BAF3-254CB49329F5} = {6E099430-CECA-4530-BAF3-254CB49329F5}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplicationRepo", "BidApplicationRepo\BidApplicationRepo.csproj", "{6D684A94-18AC-4A9D-9C15-62058D1FF9B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidApplication.Dal", "BidApplicationRepo\BidApplication.Dal.csproj", "{6D684A94-18AC-4A9D-9C15-62058D1FF9B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{2FA2C8F2-5869-4EA2-A46E-FE2C3560EF1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extra", "Extra", "{350F9910-933B-4699-8FA3-E39EEB6471D5}"
+	ProjectSection(SolutionItems) = preProject
+		Extras.Json = Extras.Json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{C9D7EC95-9255-4771-832C-AEE069A2D8DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +51,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{350F9910-933B-4699-8FA3-E39EEB6471D5} = {2FA2C8F2-5869-4EA2-A46E-FE2C3560EF1C}
+		{C9D7EC95-9255-4771-832C-AEE069A2D8DD} = {2FA2C8F2-5869-4EA2-A46E-FE2C3560EF1C}
 	EndGlobalSection
 EndGlobal

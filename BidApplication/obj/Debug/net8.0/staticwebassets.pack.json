@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BidApplicationUI.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BidApplicationUI.pbnxltue6d.bundle.scp.css"
+      "Id": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BidApplication.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BidApplication.UI.4err1tfca3.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\emeld\\source\\repos\\BidApplication\\BidApplication\\wwwroot\\css\\site.css",
@@ -253,24 +253,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BidApplicationUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BidApplication.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BidApplicationUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BidApplication.UI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BidApplicationUI.props",
-      "PackagePath": "build\\BidApplicationUI.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BidApplication.UI.props",
+      "PackagePath": "build\\BidApplication.UI.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BidApplicationUI.props",
-      "PackagePath": "buildMultiTargeting\\BidApplicationUI.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BidApplication.UI.props",
+      "PackagePath": "buildMultiTargeting\\BidApplication.UI.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BidApplicationUI.props",
-      "PackagePath": "buildTransitive\\BidApplicationUI.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BidApplication.UI.props",
+      "PackagePath": "buildTransitive\\BidApplication.UI.props"
     }
   ],
   "ElementsToRemove": []

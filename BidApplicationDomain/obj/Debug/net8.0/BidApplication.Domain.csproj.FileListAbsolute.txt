@@ -1,0 +1,11 @@
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\bin\Debug\net8.0\BidApplication.Domain.deps.json
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\bin\Debug\net8.0\BidApplication.Domain.dll
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\bin\Debug\net8.0\BidApplication.Domain.pdb
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.AssemblyInfo.cs
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.dll
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\refint\BidApplication.Domain.dll
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.pdb
+C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\ref\BidApplication.Domain.dll
