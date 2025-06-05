@@ -1,0 +1,13 @@
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.UI.exe
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.UI.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.UI.deps.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.UI.runtimeconfig.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.UI.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.Dal.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.Domain.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.Service.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.Domain.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.Dal.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplication\obj\Release\net8.0\PubTmp\Out\BidApplication.Service.pdb

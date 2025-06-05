@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BidApplication.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4efebef352b13450a8d83275e32959909a407aff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7165cac0a611b164efd0def150b87d80e8bec551")]
 [assembly: System.Reflection.AssemblyProductAttribute("BidApplication.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BidApplication.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

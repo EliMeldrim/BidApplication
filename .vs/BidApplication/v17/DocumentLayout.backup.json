@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\emeld\\OneDrive\\Documents\\GitHub\\BidApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|c:\\users\\emeld\\onedrive\\documents\\github\\bidapplication\\bidapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|solutionrelative:bidapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|c:\\users\\emeld\\onedrive\\documents\\github\\bidapplication\\bidapplication\\wwwroot\\data\\extras.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|solutionrelative:bidapplication\\wwwroot\\data\\extras.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|c:\\users\\emeld\\onedrive\\documents\\github\\bidapplication\\bidapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|solutionrelative:bidapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|c:\\users\\emeld\\onedrive\\documents\\github\\bidapplication\\bidapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|solutionrelative:bidapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAC32E5E-5460-4B0F-A990-7F97671997F0}|BidApplication\\BidApplication.UI.csproj|c:\\users\\emeld\\onedrive\\documents\\github\\bidapplication\\bidapplication\\wwwroot\\js\\calc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -78,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 282,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Extras.Json",
               "DocumentMoniker": "C:\\Users\\emeld\\OneDrive\\Documents\\GitHub\\BidApplication\\BidApplication\\wwwroot\\data\\Extras.Json",
               "RelativeDocumentMoniker": "BidApplication\\wwwroot\\data\\Extras.Json",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CalulatorController.cs",
               "DocumentMoniker": "C:\\Users\\emeld\\OneDrive\\Documents\\GitHub\\BidApplication\\BidApplication\\Controllers\\CalulatorController.cs",
               "RelativeDocumentMoniker": "BidApplication\\Controllers\\CalulatorController.cs",
@@ -103,12 +103,11 @@
               "RelativeToolTip": "BidApplication\\Controllers\\CalulatorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T21:59:42.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T21:59:42.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\emeld\\OneDrive\\Documents\\GitHub\\BidApplication\\BidApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BidApplication\\Controllers\\HomeController.cs",
@@ -121,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\emeld\\OneDrive\\Documents\\GitHub\\BidApplication\\BidApplication\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BidApplication\\Views\\Shared\\_Layout.cshtml",
@@ -129,12 +128,11 @@
               "RelativeToolTip": "BidApplication\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T21:55:34.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T21:55:34.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dal.cs",
               "DocumentMoniker": "C:\\Users\\emeld\\OneDrive\\Documents\\GitHub\\BidApplication\\BidApplicationRepo\\Dal.cs",
               "RelativeDocumentMoniker": "BidApplicationRepo\\Dal.cs",
@@ -142,12 +140,11 @@
               "RelativeToolTip": "BidApplicationRepo\\Dal.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T22:27:58.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T22:27:58.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\emeld\\OneDrive\\Documents\\GitHub\\BidApplication\\BidApplicationService\\Service.cs",
               "RelativeDocumentMoniker": "BidApplicationService\\Service.cs",
@@ -155,8 +152,7 @@
               "RelativeToolTip": "BidApplicationService\\Service.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T22:19:18.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T22:19:18.884Z"
             },
             {
               "$type": "Document",
@@ -168,8 +164,7 @@
               "RelativeToolTip": "BidApplication\\wwwroot\\js\\Calc.js",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-04T21:58:39.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T21:58:39.215Z"
             },
             {
               "$type": "Document",
@@ -181,8 +176,7 @@
               "RelativeToolTip": "BidApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T22:51:26.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T22:51:26.714Z"
             },
             {
               "$type": "Document",
@@ -194,8 +188,7 @@
               "RelativeToolTip": "BidApplicationDomain\\BidApplication.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T21:44:14.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T21:44:14.521Z"
             },
             {
               "$type": "Document",
@@ -207,8 +200,7 @@
               "RelativeToolTip": "BidApplication\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-05T01:43:40.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T01:43:40.306Z"
             },
             {
               "$type": "Document",
@@ -220,8 +212,7 @@
               "RelativeToolTip": "BidApplication\\wwwroot\\css\\styles.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-05T01:43:37.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T01:43:37.641Z"
             },
             {
               "$type": "Document",
@@ -233,8 +224,7 @@
               "RelativeToolTip": "BidApplicationDomain\\Models\\ExtraJSON.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T22:17:44.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T22:17:44.267Z"
             },
             {
               "$type": "Document",
@@ -246,8 +236,7 @@
               "RelativeToolTip": "Extras.Json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T22:01:09.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T22:01:09.76Z"
             },
             {
               "$type": "Document",
@@ -259,8 +248,7 @@
               "RelativeToolTip": "BidApplicationDomain\\Interfaces\\IDal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T21:47:49.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T21:47:49.512Z"
             },
             {
               "$type": "Document",
@@ -272,8 +260,7 @@
               "RelativeToolTip": "BidApplicationDomain\\Interfaces\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T21:51:20.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T21:51:20.728Z"
             },
             {
               "$type": "Document",
