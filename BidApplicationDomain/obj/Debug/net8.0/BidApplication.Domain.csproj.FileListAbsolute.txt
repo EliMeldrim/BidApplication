@@ -9,3 +9,15 @@ C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0
 C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\refint\BidApplication.Domain.dll
 C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.pdb
 C:\Users\emeld\source\repos\BidApplication\BidApplicationDomain\obj\Debug\net8.0\ref\BidApplication.Domain.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\bin\Debug\net8.0\BidApplication.Domain.deps.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\bin\Debug\net8.0\BidApplication.Domain.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\bin\Debug\net8.0\BidApplication.Domain.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.AssemblyInfo.cs
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.sourcelink.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\refint\BidApplication.Domain.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\BidApplication.Domain.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationDomain\obj\Debug\net8.0\ref\BidApplication.Domain.dll

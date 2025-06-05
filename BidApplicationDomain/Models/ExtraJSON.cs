@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace BidApplication.Domain.Models
 {
+
     public class ExtraJSON
     {
-        public required List<List<string>> Extra { get; set; }
+        public required string Name { get; set; }
+        public required string Value { get; set; }
     }
+
 }

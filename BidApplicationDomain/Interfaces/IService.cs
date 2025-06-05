@@ -9,6 +9,6 @@ namespace BidApplication.Domain.Interfaces
 {
     public interface IService
     {
-        ExtraJSON GetExtras();   
+       List<ExtraJSON> GetExtras();   
     }
 }

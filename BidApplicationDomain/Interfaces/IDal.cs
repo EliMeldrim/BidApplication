@@ -9,6 +9,6 @@ namespace BidApplication.Domain.Interfaces
     public interface IDal
     {
 
-        ExtraJSON GetExtras();
+        List<ExtraJSON> GetExtras();
     }
 }

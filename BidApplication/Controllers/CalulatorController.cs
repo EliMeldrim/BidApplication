@@ -17,10 +17,12 @@ namespace BidApplication.UI.Controllers
         {
             return View();
         }
-
-        public ExtraJSON GetExtras()
+        [HttpPost]
+        public JsonResult GetExtras()
         {
-            return _s.GetExtras();
+            Console.WriteLine("GetExtras called");
+            var extras = _s.GetExtras();
+            return Json(extras);
         }
     }
 }

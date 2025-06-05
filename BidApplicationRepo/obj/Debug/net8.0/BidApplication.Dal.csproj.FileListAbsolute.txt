@@ -1,0 +1,16 @@
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\bin\Debug\net8.0\BidApplication.Dal.deps.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\bin\Debug\net8.0\BidApplication.Dal.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\bin\Debug\net8.0\BidApplication.Dal.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\bin\Debug\net8.0\BidApplication.Domain.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\bin\Debug\net8.0\BidApplication.Domain.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.csproj.AssemblyReference.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.AssemblyInfoInputs.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.AssemblyInfo.cs
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.csproj.CoreCompileInputs.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.sourcelink.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidAppli.70D07D89.Up2Date
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\refint\BidApplication.Dal.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\BidApplication.Dal.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationRepo\obj\Debug\net8.0\ref\BidApplication.Dal.dll

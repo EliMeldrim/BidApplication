@@ -1,0 +1,16 @@
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\bin\Debug\net8.0\BidApplication.Service.deps.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\bin\Debug\net8.0\BidApplication.Service.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\bin\Debug\net8.0\BidApplication.Service.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\bin\Debug\net8.0\BidApplication.Domain.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\bin\Debug\net8.0\BidApplication.Domain.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.csproj.AssemblyReference.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.AssemblyInfoInputs.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.AssemblyInfo.cs
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.sourcelink.json
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidAppli.0EF3580B.Up2Date
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\refint\BidApplication.Service.dll
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\BidApplication.Service.pdb
+C:\Users\emeld\OneDrive\Documents\GitHub\BidApplication\BidApplicationService\obj\Debug\net8.0\ref\BidApplication.Service.dll

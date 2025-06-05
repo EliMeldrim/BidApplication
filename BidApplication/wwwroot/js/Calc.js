@@ -20,6 +20,7 @@ function calculateTotal() {
 function GetExtraOptions() {
 
     fetch(document.getElementById('GetExtras').value, { method: 'POST' })
+   
         .then(response => response.json())
         .then(data => {
 
@@ -32,6 +33,11 @@ function GetExtraOptions() {
 
 
 }
+
+window.addEventListener('DOMContentLoaded', () => {
+    GetExtraOptions();
+
+})
 
 
   // Add event listeners to all relevant inputs

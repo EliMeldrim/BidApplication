@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BidApplicationDomain\BidApplication.Domain.csproj" />
+    <ProjectReference Include="..\BidApplicationRepo\BidApplication.Dal.csproj" />
+    <ProjectReference Include="..\BidApplicationService\BidApplication.Service.csproj" />
   </ItemGroup>
 
 </Project>

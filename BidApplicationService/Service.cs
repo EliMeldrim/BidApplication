@@ -18,7 +18,7 @@ namespace BidApplication.Service
             _s = s;
         }
 
-        public ExtraJSON GetExtras()
+        public List<ExtraJSON> GetExtras()
         {
             return _s.GetExtras(); 
         }
